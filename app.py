@@ -1,4 +1,4 @@
-i```python
+
 import streamlit as st
 import random
 
@@ -155,4 +155,4 @@ st.markdown("""
 st.snow()
 
 st.caption("🪄 Built with Streamlit • Mischief Managed")
-```
+
